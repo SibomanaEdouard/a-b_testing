@@ -1,0 +1,9 @@
+
+
+/* Import Bootstrap CSS */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* there we put  additional or custom styles */
+.done{
+    color: red;
+}
